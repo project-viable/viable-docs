@@ -21,4 +21,4 @@ See the pages below for a list of groups that exist, and ***please add any new g
 
 ## Reference
 1. [Lab Objects](/docs/reference/groups/labobject)
-2. [Substances](/substance)
+2. [Substances](/docs/reference/groups/substance)
