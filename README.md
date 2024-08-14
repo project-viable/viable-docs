@@ -36,3 +36,7 @@ $ npm run serve
 
 ### GitHub pages deployment
 
+The repository has been configured with a workflow. The page should build when branch `deploy` is pushed.
+
+Note: You should check that Actions tab to ensure that the build was completed successfully. In particular, Docusaurus is configured to fail if a broken link is detected. This should not be overridden to help keep the website working correctly.
+
