@@ -7,18 +7,28 @@ You should only clone this repository if you are planning to make changes to the
 ### Installation
 
 1. Install [Node.js](https://nodejs.org/en/download/package-manager)
+
 2. Clone this repository
    ```git
    git clone git@github.com:project-viable/viable-docs.git
    ```
-
-2. Start the site:
+   
+3. Navigate to the cloned directory
    ```bash
    cd viable-docs/
-   npm start
+   ```
+   
+4. Install Docusaurus
+   ```bash
+   npm install
    ```
 
-3. Point your browser to the localhost:3000
+6. Start the site:
+   ```bash
+   npm run start
+   ```
+
+7. Point your browser to the localhost:3000
 
 ### Build
 
