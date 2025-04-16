@@ -85,6 +85,7 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {to: '/procedures', label: 'Procedures', position: 'left'},
       ],
     },
     footer: {
